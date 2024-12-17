@@ -1,1 +1,1 @@
-#This is tic tac toe game using simple java
+#This is tic tac toe game  code using simple java
